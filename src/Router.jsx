@@ -5,7 +5,6 @@ import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import { Canvas } from "@react-three/fiber";
 import { Html } from "@react-three/drei";
 import SceneContent from "./components/SceneContent";
-// import ModelViewer from "./components/ModelViewer";
 import QRCodeModal from "./components/QRCodeModal";
 import { Suspense } from "react";
 import { useConfigurator } from "./components/ConfiguratorContext";
